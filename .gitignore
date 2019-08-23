@@ -1,0 +1,6 @@
+# Ignore directories
+projects/
+tutorials/
+
+# Ignore files 
+001_program.java
